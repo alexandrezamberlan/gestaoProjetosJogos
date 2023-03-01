@@ -6,9 +6,9 @@
   - delegar ou definir responsável(eis)
   - monitorar ou acompanhar
   - cobrar ou certificar-se que atividade está ou não em progresso
-- Kanban: 
+- Kanban: técnica para controlar o fluxo das atividades a serem feitas, sendo feitas, feitas e paralisadas. Com ela é possível identificar prazos, responsáveis e situação
 - Método: técnica ou forma de executar uma tarefa ou atividade específica
-- Metodologia: conjunto de regras ou boas práticas que conduzem as tarefas ou atividades
+- Metodologia: conjunto de regras/normas ou boas práticas que conduzem as tarefas ou atividades
   - o que será feito
   - como será feito
   - quando será feito
