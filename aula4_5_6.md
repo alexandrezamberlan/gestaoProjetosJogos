@@ -1,4 +1,6 @@
-# Metodologia SCRUM
+# Framework SCRUM
+
+  Coleção de boas práticas. Ou seja, não é uma receita que se deve seguir fielmente. Dessa forma, SCRUM contém o que deve ser feito na gestão de um projeto, mas não necessariamente, como deve ser feito.
 
 ## Site de referência
   - https://www.scrum.org/learning-series/what-is-scrum
