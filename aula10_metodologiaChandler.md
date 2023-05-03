@@ -45,13 +45,12 @@ Escreveu o livro "Manual de produção de jogos digitais" que apresenta o "ciclo
   - Pós-Produção: avaliação e julgamento da equipe sobre o projeto (lições positivas ou negativas do projeto)
 
 
-# Link para um trabalho que utilizou a metodologia
+# Trabalho que utilizou a metodologia
 
-Título: Vinícholas: um Advergame para vinícolas
-Autores: Nícholas Doviggi Meyer, Fabrício Tonetto Londero
-Curso: Jogos Digitais da Universidade Franciscana
-
-https://tfgonline.lapinf.ufn.edu.br/media/midias/TFG_Nicholas.pdf
+- Título: Vinícholas: um Advergame para vinícolas
+- Autores: Nícholas Doviggi Meyer, Fabrício Tonetto Londero
+- Curso: Jogos Digitais da Universidade Franciscana
+- Link: https://tfgonline.lapinf.ufn.edu.br/media/midias/TFG_Nicholas.pdf
 
 
 
