@@ -13,3 +13,5 @@ aumentando de tamanho, ficando mais lento, aceleração do coração, ....
 
 A moral do jogo é educar crianças de 5 a 8 anos a um estilo de vida saúdável. O jogo deve durar de 5 a 7 minutos. Ao final, um áudio deve ser executado explicando o comportamento do personagem ao longo do caminho,
 em que o levou a uma vida mais ou menos saudável.
+
+A proposta pode ser enviada ou o link dela no seu github pessoal para alexz@ufn.edu.br
